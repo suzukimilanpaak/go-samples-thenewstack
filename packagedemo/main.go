@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shijuvar/go-samples-thenewstack/packagedemo/lib"
+	"go-samples-thenewstack/packagedemo/lib"
 )
 
 func main() {
